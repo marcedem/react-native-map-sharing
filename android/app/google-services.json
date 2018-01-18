@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "767488428653",
+    "firebase_url": "https://react-native-map-1515597452763.firebaseio.com",
+    "project_id": "react-native-map-1515597452763",
+    "storage_bucket": "react-native-map-1515597452763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767488428653:android:04adaf20abfef72c",
+        "android_client_info": {
+          "package_name": "com.shareplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767488428653-u1661ed50c6l5tiu0sme76kldlia2reu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLxwmsUk5ZiTHm6mk5IqHtQV2W-qSujs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
