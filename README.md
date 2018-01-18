@@ -1,3 +1,7 @@
+# react-native-map-sharing
+This basic react native project, is for testing react native and map sharing integration. It is surely buggy, so please do not take it too serious
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
